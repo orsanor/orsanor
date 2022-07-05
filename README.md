@@ -1,9 +1,6 @@
 ### Hi, I’m Jonathan Orsano!
 
 - 🌱 I’m currently learning javascript 
-
-
-
 <div align="center">
   <a href="https://github.com/orsanor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=orsanor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
