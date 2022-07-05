@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jonathan Orsano !
 - 🌱 I’m currently learning javascript.
-
-
-
+- 👀 I’m interested in learn new tecnologies and levelup my skills on programming ! 
+- 💞️ I’m looking to collaborate on works that i can improve my skills.
+- 📫 How to reach me: email: orsanor@gmail.com
 
 <div align="center">
   <a href="https://github.com/orsanor">
