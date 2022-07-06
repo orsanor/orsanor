@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Hi, my name is<a href="https://www.linkedin.com/in/jonathan-orsano/"><i> Jonathan Orsano</i></a> 👻</h1>
+  <h1 align="center">Hi, my name is <i> Jonathan Orsano</i></a> 👻</h1>
   <p align="center">I'm a computer science student
     <p align="center">Brazilian 🇧🇷
   </a><br>
