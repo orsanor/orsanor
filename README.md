@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning javascript.
 - 📫 How to reach me: email: orsanor@gmail.com
 
-<div style="display: inline_block"><br>
+<div style="display: center"><br>
   <a href="https://github.com/orsanor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=orsanor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orsanor&layout=compact&langs_count=7&theme=tokyonight"/>
