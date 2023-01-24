@@ -1,35 +1,30 @@
-<div>
-  <h1 align="center">Hi, my name is <i> Jonathan Orsano</i></a> 👻</h1>
-  <p align="center">I'm a computer science student
-  <p align="center">🧠 I'm learning Javascript and Vue.js 🧠
-    <p align="center">Brazilian 🇧🇷
-  </a><br>
+### Hi everyone. I'm Jonathan Rafael Santos Orsano
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-orsano/)
+
+Public commits: <br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=orsanor&theme=vue-dark&show_icons=true)
+
+## Techs i use in my day
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img align="center" alt="gitlab" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img align="center" alt="gitlab" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+ 
+
 </div>
 
-<div align="center">
-  <a href="https://github.com/orsanor">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=orsanor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orsanor&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
+## Techs i'm studying
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
-     <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
-          
-          
-<!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
-
-  <p></p>
+<div style="display: inline_block"><br/>
   
-<div align="center">
-   <a href="https://www.linkedin.com/in/jonathan-orsano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:orsanor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <img align="center" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="gitlab" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img align="center" alt="gitlab" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+ 
+
 </div>
-
-
  
