@@ -5,7 +5,7 @@
 Public commits: <br/>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=orsanor&theme=vue-dark&show_icons=true)
 
-## Techs i'm studying
+## Techs i use in my day & Techs i'm studying
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="java" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
