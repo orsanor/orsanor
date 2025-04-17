@@ -24,5 +24,6 @@ Public commits: <br/>
   <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img align="center" alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+   <img align="center" alt="C#" src="https://img.shields.io/badge/C#-777BB4?style=for-the-badge&logo=c#&logoColor=white" />
  
 </div>
