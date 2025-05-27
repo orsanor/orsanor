@@ -1,4 +1,4 @@
-### Hi everyone. I'm Jonathan Rafael Santos Orsano
+### Hi everyone. I'm Jonathan Orsano
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-orsano/)
 
